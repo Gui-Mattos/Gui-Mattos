@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Gui-Mattos
-- 👀 I’m interested in Mobile Apps
-- 🌱 I’m currently learning Java
 - 📫 How to reach me : gmattosdoc@gmail.com
